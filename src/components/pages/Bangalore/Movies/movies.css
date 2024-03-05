@@ -1,0 +1,213 @@
+.moviepage{
+    display:flex;
+    flex-direction: column;
+}
+
+.moviepage .c1{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.moviepage .c1 .c11{
+    background: linear-gradient(90deg, rgb(0, 0, 0) 40%, rgba(255, 255, 255, 0) 60%, rgb(0, 0, 0) 90%);
+    min-height: 50vh;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.moviepage .c1 .c11 .left{
+    display: flex;
+    align-items: center;
+    gap: 20px ;
+}
+
+.moviepage .c1 .c11 .right{
+    position: relative;
+}
+
+.moviepage .c1 .c11 .left .movie_poster {
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.moviepage .c1 .c11 .left .movie_poster p{
+    position:absolute;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding: 3px;
+}
+
+.moviepage .c1 .c11 .left .moviedetails{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 20px;
+}
+
+.moviepage .c1 .c11 .left .moviedetails .movie-title {
+    font-size: 40px;
+    font-weight: 600;
+
+}
+
+.moviepage .c1 .c11 .left .moviedetails .rating {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.moviepage .c1 .c11 .left .moviedetails .rating .star {
+    color: var(--col1);
+}
+.moviepage .c1 .c11 .left .moviedetails .languages {
+    display: flex;
+    gap: 10px;
+}
+
+.moviepage .c1 .c11 .left .moviedetails .languages p {
+    background-color: rgba(255, 255, 255, 0.866);
+    color: black;
+    padding: 5px 10px;
+    border-radius: 2px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.moviepage .c1 .c11 .left .moviedetails .duration_type_releasedate {
+    display: flex;
+    gap: 5px;
+}
+
+
+.moviepage .bookbtn {
+    background-color: var(--col1);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 60px;
+    font-size: 16px;
+    width: fit-content;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+
+.horizontal-flex{
+    display: flex;
+}
+
+.halls{
+    background-color: rgb(229, 229, 229);
+    color: black;
+    width: 40%;
+    text-align: center;
+    border-radius: 2px;
+    padding: 2px;
+}
+
+.languages{
+    background-color: rgb(229, 229, 229);
+    color: black;
+    width: 40%;
+    text-align: center;
+    border-radius: 2px;
+    padding: 2px;
+    margin-left: 20px;
+}
+
+.moviepage .sharebtn .shareicon{
+    font-size: 25px;
+    margin-right: 5px;
+}
+.moviepage .sharebtn {
+    background-color: rgb(21, 21, 21);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
+/*------------------------------------- c2 ------------------------------------*/
+
+.moviepage .c2{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 70%;
+}
+
+
+.moviepage .c2 h2{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    color: rgb(0, 0, 0);
+
+}
+
+
+.moviepage .c2 p{
+    background: #0000;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: rgb(117, 108, 108);
+    padding-top: 16px;
+    font-family: Roboto, sans-serif;
+}
+
+
+.moviepage .c2 .divider{
+    width: 70%;
+    height: 0.25%;
+    background-color: rgb(6, 5, 5);
+    margin:30px 0px;
+    border-top: 1px solid #d8d5d5;
+}
+
+.celebcard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.celebcard img{
+    width: 80%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+
+
+.loading-spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

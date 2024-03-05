@@ -1,0 +1,14 @@
+.slider{
+    display: block;
+    padding: 5px;
+    background: #0000;
+}
+
+.swiper-slide img{
+    border-radius: 20px;
+    width: 100%;
+    padding: 0px;
+    top: 0;
+    left: 0;
+    margin-right: 150px;
+}

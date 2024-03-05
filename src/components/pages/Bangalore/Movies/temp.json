@@ -1,0 +1,941 @@
+{
+    "name": "Screen 1",
+    "location": "Nexus Mall , Banagalore",
+    "timeslots": [
+        {
+            "time": "10:00 AM",
+            "seats": [
+                {
+
+                    "type": "platinum",
+                    "rows": [
+                        {
+                            "rowname": "H",
+                            "cols": [
+
+                                 {
+                                    "seats": [
+                                        {   
+                                            "status":"not-available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"not-available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                },
+
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "9"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "rowname": "G",
+                            "cols": [
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+
+                            "rowname": "F",
+                            "cols": [
+
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "4"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "seats": [
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "price": 500
+                },
+                {
+                    "type": "gold",
+                    "rows": [
+                        {
+                            "rowname": "E",
+                            "cols": [
+
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "3"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "9"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "rowname": "D",
+                            "cols": [
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "seats": [
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "1"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "7"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+    
+                            "rowname": "C",
+                            "cols": [
+
+                                {
+                                    "seats": [
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "8"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "9"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                },
+                            
+                                {
+                                    "seats": [
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "price": 300
+                },
+                {
+                    "type": "silver",
+                    "rows": [
+                        {
+                            "rowname": "B",
+                            "cols": [
+                                 
+                                {
+                                    "seats": [
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "9"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                },
+                            
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "rowname": "A",
+                            "cols": [
+                                 
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                },
+                            
+                                {
+                                    "seats": [
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "1"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "2"
+                                        },
+
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "3"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "4"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "5"
+                                        },
+                                        {
+                                            "status":"available",
+                                            "seat_id": "6"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "7"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "8"
+                                        },
+                                        {
+
+                                            "status":"available",
+                                            "seat_id": "9"
+                                        },
+                                        {
+                                            "status":"available",
+
+                                            "seat_id": "10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "price": 150
+                }
+            ]
+        }
+    ]
+}

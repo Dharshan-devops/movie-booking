@@ -1,0 +1,110 @@
+.mainContainer {
+    justify-content: center;
+}
+
+.container {
+    /* display: flex; */
+    justify-content: center;
+}
+
+.seatContainer {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 40%;
+    height: 40%;
+    justify-content: center;
+    gap: 25px;
+}
+
+.boxStyle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1px;
+    border: 1px solid green;
+    border-radius: 5px;
+    width: calc(10% - 20px);
+    cursor: pointer;
+}
+
+.boxStyle p {
+    margin: 0;
+}
+
+
+
+.boxStyle.available:hover {
+    background-color: var(--col1);
+    color:white;
+}
+
+.boxStyle.unavailable {
+    cursor: not-allowed;
+    background-color: rgb(172, 169, 169);
+    border: 2px solid rgb(116, 15, 15);
+}
+.selected {
+    background-color: green;
+    color: white;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+.bookButton{
+    display: flex;
+    justify-content: center;
+    padding-left: 60px;
+    height: 30px;
+}
+
+.headContainer{
+    border-bottom: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 5px;
+}
+
+.headContainer h2{
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    margin-left: 40px;
+}
+
+.headContainer h3{
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    margin-left: 40px;
+}
+
+.headContainer h4{
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+
+
+.timeContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.footer img{
+    padding-left: 50px;
+}
+
+.timeContainer .timeBox{
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid;
+    padding: 4px;
+    margin-top: 10px;
+    margin-left: 50px;
+}

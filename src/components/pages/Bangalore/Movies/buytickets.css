@@ -1,0 +1,129 @@
+.buytickets .head{
+    /* background-color: var(--col2); */
+    color: black;
+    padding: 20px;
+}
+
+.buytickets {
+    background-color: rgb(228,228,228);
+    min-height: 100vh;
+    width: 100%;
+}
+
+.buytickets .s1{
+    background-color: white;
+}
+
+
+.buytickets .head h2{
+    color: black;
+    padding-bottom: 15px;
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+.buytickets .head h3{
+    color: gray;
+    font-size: 13px;
+    font-weight: 500;
+    border: 1px solid gray;
+    padding: 5px 20px;
+    border-radius: 25px;
+    width: fit-content;
+    margin-left: 40px;
+}
+
+.buytickets .screens{
+    width: 90%;
+    margin: 20px auto;
+    box-shadow:0px 0px 10px 0px rgba(0,0,0,0.2);
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.buytickets .screens .screen{
+    display: flex;
+    /* justify-content:space-around; */
+    align-items: center;
+    margin: 10px 0px;
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.buytickets .screens .screen:last-child{
+    border-bottom: none;
+}
+
+.buytickets .screens .screen h2{
+    font-size: 20px;
+    font-weight: 60;
+}
+
+.buytickets .screens .screen h3{
+    font-size: 15px;
+    font-weight: 60;
+}
+
+
+.slick-row .date-picker{
+    margin-top: 5px;
+    width: 18%;
+    margin-left: 60px;
+}
+
+.slick-row{
+    border-top: 1px solid #d0d5e6;;
+}
+
+.left-block{
+    display: block;
+    width:40%;
+}
+
+.right-block{
+    margin-left: 200px;
+}
+
+.time-button{
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+    color: #4abd5d;
+    background-color: white;
+    border-radius: 6px;
+    border-color: #edecec;
+    border-style: ridge;
+}
+
+.labels{
+    font-size: 14px;
+    margin-top: 10px;
+    display: flex;
+    color:#4abd5d;
+    padding: 9px;
+}
+
+.mobile-icon{
+    margin-left: 20px;
+    width: 20px;
+}
+
+.food-icon{
+    color:orange;
+    margin-left: 40px;
+}
+
+.language{
+    color: rgb(135, 173, 235);
+    padding:4px;
+    margin-left: 40px;
+}
+
+.screenName{
+    color:rgb(125, 140, 140);
+    margin-left: 30px
+}
